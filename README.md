@@ -1,2 +1,3 @@
-# hri-demo
-Demonstration of a voice-controlled robot
+**Demonstration of a voice-controlled robot**
+
+[Video link](https://youtu.be/PzIDyFQzSLw)
